@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Melquisedec Ordoñez Alonzo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2497&pause=500&width=435&lines=Melkisetek+o+Melquisedec+Ordo%C3%B1ez;Desarrollador+web+autodidacta+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2497&pause=500&width=435&lines=Melkisetek+o+Melquisedec+Ordo%C3%B1ez..;Desarrollador+web+autodidacta%2C;Estudiante+de+Ing.+en+Sistemas%2C;Activo+%2B+Alumno+%2F+Investigador%2C;Me+encanta+aprender+cosas+nuevas.." alt="Typing SVG" /></a>
 </p>
 
 

@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Melquisedec Ordoñez Alonzo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, Yo soy Melquisedec Ordoñez Alonzo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2497&pause=500&width=435&lines=Melkisetek+o+Melquisedec+Ordo%C3%B1ez..;Desarrollador+web+autodidacta%2C;Estudiante+de+Ing.+en+Sistemas%2C;Activo+%2B+Alumno+%2F+Investigador%2C;Me+encanta+aprender+cosas+nuevas.." alt="Typing SVG" /></a>
@@ -12,7 +12,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acera de mí**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 

@@ -34,8 +34,7 @@
 <p align="center">
 
 - **Languages**:
-    <picture> <img align="right" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg"  width = 32px> 	</picture>
-
+    [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 

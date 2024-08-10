@@ -126,9 +126,7 @@
 <br>
 
 <li>
-<a href="<a href="mailto:elmenk2018@gmail.com?subject=Asunto%20del%20correo&body=Hola,%20quiero%20consultar%20sobre...">  
-    Enviar correo  
-</a>" target="_blank">
+<a href="mailto:ejemplo@dominio.com?subject=Asunto%20del%20correo&body=Hola,%20quiero%20consultar%20sobre..." target="_blank">
 <img src="https://img.shields.io/badge/gmail: Melquisedec-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>

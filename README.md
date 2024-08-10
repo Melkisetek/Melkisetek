@@ -110,18 +110,18 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/melquisedec-ordo%C3%B1ez-alonzo-436128314/" target="_blank">
+<a target="_blank" href="https://www.linkedin.com/in/melquisedec-ordo%C3%B1ez-alonzo-436128314/" >
 <img src="https://img.shields.io/badge/linkedin:  Melquisedec-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
-<li>
+<!-- <li>
 <a href="https://twitter.com/0xabdulkhalid" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  Melquisedec-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
-</li>
+</li> -->
 
 <br>
 

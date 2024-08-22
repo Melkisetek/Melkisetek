@@ -67,7 +67,7 @@
 <br>
 
 - **Database**:
-
+![Java](https://skillicons.dev/icons?i=mysql)
 <br>
 
 - **Extras**:

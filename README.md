@@ -66,13 +66,15 @@
 
 <br>
 
-- **Extras**: 
+- **Extras**:
+  ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
  <p>
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
+    
  </p>
-
-
+ 	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=git,mysql">
+	</a>
 </p>
 
 <br>

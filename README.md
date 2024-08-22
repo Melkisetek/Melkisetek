@@ -66,7 +66,7 @@
 
 <br>
 
-_ **Database**:
+- **Database**:
 
 <br>
 

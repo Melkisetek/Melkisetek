@@ -118,7 +118,7 @@
 
 <li>
 <a target="_blank" href="https://www.linkedin.com/in/melquisedec-ordo%C3%B1ez-alonzo-436128314/" >
-<img src="https://img.shields.io/badge/linkedin:  Melquisedec-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </li>
 

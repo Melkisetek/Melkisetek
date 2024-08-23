@@ -133,7 +133,7 @@
 
 <li>
 <a target="_blank" href="maito: elmenk2018@gmail.com">
-<img src="https://img.shields.io/badge/gmail: elmenk2018@gmail.com -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </li>
 

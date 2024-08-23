@@ -68,7 +68,7 @@
 
 - **Database**:
   
-   ![Java](https://skillicons.dev/icons?i=mysql)
+   ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
 
 - **Extras**:

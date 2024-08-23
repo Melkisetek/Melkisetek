@@ -132,7 +132,7 @@
 
 
 <li>
-<a target="_blank" href="mailto: elmenk2018@gmail.com"> enviar 
+<a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=elmenk2018@gmail.com&su=Asunto&body=Este%20es%20el%20cuerpo%20del%20mensaje"> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </li>

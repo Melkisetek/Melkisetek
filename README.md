@@ -132,7 +132,7 @@
 
 
 <li>
-<a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=elmenk2018@gmail.com&su=Asunto&body=Envíale%20un%20mensaje%20a20%Melquisedec%20aquí"> 
+<a target="_blank" href="https://mail.google.com/mail/view=cm&fs=1&to=elmenk2018@gmail.com&su=Asunto&body=Enviale%20un%20mensaje%20a20%Melquisedec%20aqui"> 
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>

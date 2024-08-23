@@ -122,7 +122,7 @@
 </a>
 </li>
 
-<br>
+
 
 <!-- <li>
 <a href="https://twitter.com/0xabdulkhalid" target="_blank">
@@ -130,7 +130,6 @@
 </a>
 </li> -->
 
-<br>
 
 <li>
 <a target="_blank" href="maito: elmenk2018@gmail.com">

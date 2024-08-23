@@ -137,6 +137,10 @@
 <img src="https://img.shields.io/badge/gmail: elmenk2018@gmail.com -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
+
+<a targer="_blank" href="https://www.facebook.com/guidman.melordonez/?locale=es_LA">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
 	
 </ul>
 </div>

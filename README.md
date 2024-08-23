@@ -132,9 +132,8 @@
 
 
 <li>
-<a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=elmenk2018@gmail.com&su=Asunto&body=Envíale20%un20%mensaje20%a20%Melquisedec20%aquí. 
-![image](https://github.com/user-attachments/assets/bf2a9cec-f72f-4bd6-8850-9b44f7d402bb)
-"> 
+<a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=elmenk2018@gmail.com&su=Asunto&body=Envíale20%un20%mensaje20%a20%Melquisedec20%aquí."> 
+
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </li>

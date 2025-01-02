@@ -132,7 +132,7 @@
 
 
 <li>
-<a target="_blank" href="mailto:elmenk2018@gmail.com?subject=Contacto&body=enviar email"> 
+<a target="_blank" href="mailto:elmenk2018@gmail.com?subject=Contacto&body=enviaremail"> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </li>
